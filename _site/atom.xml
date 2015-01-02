@@ -9,7 +9,7 @@
     <subtitle>Every new line has a purpose</subtitle>
     <link href="http://line-break.github.io/atom.xml" rel="self"/>
     <link href="http://line-break.github.io/" rel="alternate" type="text/html"/>
-    <updated>2015-01-02T14:19:12-07:00</updated>
+    <updated>2015-01-02T14:22:05-07:00</updated>
     <id>http://line-break.github.io/</id>
     <author>
 			<name>Stephen Lu</name>
@@ -19,7 +19,7 @@
 
     
     <entry>
-        <title>Net Neutrality One Step Closer</title>
+        <title>Time for Change</title>
         <link href="http://line-break.github.io/time-for-change/"/>
         <updated>2014-11-11T00:22:17-07:00</updated>
         <id>http://line-break.github.io/time-for-change</id>
@@ -30,7 +30,7 @@
 				</author>
         <content type="html">
         	
-        	
+        	&lt;p&gt;We are ready for this new change coming.  Linebreak is now going to be something.&lt;/p&gt;
 
         </content>
     </entry>
