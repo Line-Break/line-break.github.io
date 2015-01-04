@@ -5,32 +5,54 @@
 
     <title>LineBreak</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.1</generator>
-		<icon>http://line-break.github.io/apple-touch-icon-precomposed.png</icon>
+		<icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
     <subtitle>Every new line has a purpose</subtitle>
-    <link href="http://line-break.github.io/atom.xml" rel="self"/>
-    <link href="http://line-break.github.io/" rel="alternate" type="text/html"/>
-    <updated>2015-01-02T14:22:05-07:00</updated>
-    <id>http://line-break.github.io/</id>
+    <link href="http://localhost:4000/atom.xml" rel="self"/>
+    <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+    <updated>2015-01-03T20:36:37-07:00</updated>
+    <id>http://localhost:4000/</id>
     <author>
 			<name>Stephen Lu</name>
-			<uri>http://line-break.github.io/</uri>
+			<uri>http://localhost:4000/</uri>
 			<email>munk801@gmail.com</email>
 		</author>
 
     
     <entry>
         <title>Time for Change</title>
-        <link href="http://line-break.github.io/time-for-change/"/>
-        <updated>2014-11-11T00:22:17-07:00</updated>
-        <id>http://line-break.github.io/time-for-change</id>
+        <link href="http://localhost:4000/time-for-change/"/>
+        <updated>2014-01-03T00:22:17-07:00</updated>
+        <id>http://localhost:4000/time-for-change</id>
         <author>
 					<name>Stephen Lu</name>
-					<uri>http://line-break.github.io/</uri>
+					<uri>http://localhost:4000/</uri>
 					<email>munk801@gmail.com</email>
 				</author>
         <content type="html">
-        	
-        	&lt;p&gt;We are ready for this new change coming.  Linebreak is now going to be something.&lt;/p&gt;
+        	&lt;img src=&quot;http://localhost:4000/images/LineBreak-feature.png&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;This is the beginning of a new year.  Everybody likes to take this time to make resolutions for the year.
+While this is great for people to reinvigorate their lifes goals, it is also a endless loop for a lot of people.
+One big loop that people fall into is telling themselves things will be different when they put themselves on
+repeat the year after.  Now rather than creating new years goals, why not reiterate your life goals with
+small tangible tasks to reach these goals.&lt;/p&gt;
+
+&lt;p&gt;This is one big step for us as a group of Linebreak.  We started off coding 29+ hours over a weekend to
+get the most of what we can for Startup Weekend Orange County.  What started as a cool event to check out
+over a weekend has now turned into a potential opportunity for us to really do something amazing in the
+young age of our lives.  We have a chance to really bring something big to our community and to really
+bring purpose into our lives as well as the lives of others.&lt;/p&gt;
+
+&lt;p&gt;This is where Linebreak comes into play.  Linebreak means something so much more to our group now
+more than ever.  Linebreak now has a meaning.  Using our passions and knowledge of the everchanging
+tech industry and providing a service that can bring this passion and technology to you.  Taking
+your ideas for a better world and transforming it into an iterative and tangible product.  Taking
+the most up to date features and creating a product that can co-exist in the world with the best
+out there.&lt;/p&gt;
+
+&lt;p&gt;I confidently feel that we can provide a tremendous service for providing product development at
+a rapid pace and at the highest quality.&lt;/p&gt;
+
+&lt;p&gt;Munk out!&lt;/p&gt;
 
         </content>
     </entry>
