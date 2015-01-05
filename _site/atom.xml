@@ -5,31 +5,31 @@
 
     <title>LineBreak</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.1</generator>
-		<icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+		<icon>line-break.github.io/apple-touch-icon-precomposed.png</icon>
     <subtitle>Every new line has a purpose</subtitle>
-    <link href="http://localhost:4000/atom.xml" rel="self"/>
-    <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-    <updated>2015-01-04T20:26:53-08:00</updated>
-    <id>http://localhost:4000/</id>
+    <link href="line-break.github.io/atom.xml" rel="self"/>
+    <link href="line-break.github.io/" rel="alternate" type="text/html"/>
+    <updated>2015-01-04T20:42:59-08:00</updated>
+    <id>line-break.github.io/</id>
     <author>
 			<name>Stephen Lu</name>
-			<uri>http://localhost:4000/</uri>
+			<uri>line-break.github.io/</uri>
 			<email>munk801@gmail.com</email>
 		</author>
 
     
     <entry>
         <title>Time for Change</title>
-        <link href="http://localhost:4000/time-for-change/"/>
+        <link href="line-break.github.io/time-for-change/"/>
         <updated>2014-01-02T23:22:17-08:00</updated>
-        <id>http://localhost:4000/time-for-change</id>
+        <id>line-break.github.io/time-for-change</id>
         <author>
 					<name>Stephen Lu</name>
-					<uri>http://localhost:4000/</uri>
+					<uri>line-break.github.io/</uri>
 					<email>munk801@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;http://localhost:4000/images/LineBreak-feature.png&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;line-break.github.io/images/LineBreak_feature.png&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;This is the beginning of a new year.  Everybody likes to take this time to make resolutions for the year.
 While this is great for people to reinvigorate their lifes goals, it is also a endless loop for a lot of people.
 One big loop that people fall into is telling themselves things will be different when they put themselves on
