@@ -6,7 +6,7 @@ modified:
 excerpt:
 image:
   feature:
-  teaser:
+  teaser: LineBreak.png
   thumb:
 ads: false
 ---
