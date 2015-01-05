@@ -6,7 +6,7 @@ categories:
 excerpt: "This is the beginning of a new year."
 tags: []
 image:
-  feature: LineBreak-feature.png
+  feature: LineBreak_feature.png
   teaser: LineBreak.png
   thumb:
 date: 2014-01-02T23:22:17-08:00
