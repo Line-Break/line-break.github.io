@@ -7,7 +7,7 @@ excerpt:
 image:
   feature:
   teaser: LineBreak.png
-  thumb:
+  thumb: LineBreak.png
 ads: false
 ---
 
